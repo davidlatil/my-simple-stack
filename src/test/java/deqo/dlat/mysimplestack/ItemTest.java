@@ -7,6 +7,7 @@ import static org.junit.Assert.*;
 
 public class ItemTest {
     Item i1;
+    
     Item i2;
 
     @Before
